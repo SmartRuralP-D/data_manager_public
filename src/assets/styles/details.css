@@ -1,0 +1,100 @@
+
+.full-page-background {
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px; 
+    margin-bottom: 25px;  
+    height: auto;
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #a6b3a9;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.div-nome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #a6b3a9;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.titulo {
+    padding-bottom: 10px;
+    margin-right: 20px;
+    color: #fff;
+}
+
+.div-dados3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #a6b3a9;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+}
+
+
+
+.inp {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.update-button-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+.update-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    margin-right: 450px;
+    margin-top: 240px;
+}
+
+.update-button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    margin-right: 450px;
+    margin-top: 420px;
+}
